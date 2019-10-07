@@ -1,0 +1,17 @@
+  
+h1{
+     font-size=70px; // tamanho da fonte
+      background-color: rgb(120,30,60); //mudar cor de fundo, RGB(Vermelho,Verde,Azul), 255 o maximo
+      color: rgb(250,255,250);//mudar cor da fonte
+      color: #FAFFFA;//alternativa para mudança de cor, o # substitui o RGB,e usa se números hexadecimais
+      text-align: center; //alinhamento de texto
+      font-family: "arial"; //fonte do texto
+    }
+h2{
+    font-size=40px;
+    font-family:"open sans",sans-serif;
+    
+    }
+p{
+    text-align: justify; // deixar as linhas todas com a mesma largura 
+}

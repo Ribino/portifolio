@@ -1,0 +1,23 @@
+.bmw, .ibm, .uol, .g1 {
+    border: 8px solid black;
+    box-sizing: border-box;
+    width: 370px;
+    padding: 16px;
+    margin: 16px;
+}
+.uol, .g1{
+    float: right;
+    position: relative;
+    bottom: 279px;
+    margin-bottom: 0px;
+}
+
+}
+.g1{
+    float: right;
+}
+.conteudo-principal{
+
+    width: 790px;
+    padding: 30px 0;
+}

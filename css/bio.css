@@ -1,0 +1,19 @@
+
+.citacao-fiat, .citacao-petrobras{
+    background-color: #D9E5E3;
+    margin: 1em 2em;
+    border: 0.5em solid #C2CCCA;
+    width: 30ch;
+    box-sizing: border-box;
+}
+.citacao-fiat{
+    float: right;
+}
+.citacao-petrobras{
+    float: left;
+}
+cite{
+    float: right;
+    font-style: italic;
+
+}

@@ -1,0 +1,158 @@
+.titulo-principal{
+    background-color: #395174; 
+    color:#FFF;   
+    border-bottom: 0.5rem solid #000;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 2rem;
+}
+.subtitulo-principal{
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.foto-home {
+    height: 200px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+    font-size: 300%;
+    text-transform: uppercase;
+    line-height: 1.5;
+
+}
+.saudacao p {
+    color: #99A;
+    line-height: 1;
+    padding: 2em;
+    font-size: 1.5em;
+}
+.saudacao-inicio {
+    color: #889;
+    font-size: 3em;
+}
+.saudacao-ultima-linha {
+    text-align: right;
+    display: block;
+}
+.saudacao strong {
+    color: #000;
+    font-size: 2.4em;
+}
+.saudacao em {
+    color: #3230b6;
+    font-size: 7em;
+}
+.botao-index {
+    background-color: #282a85;
+    color: #FFF;
+    border: .2em solid black;
+    width: 40ch;
+    display: block;
+    text-align: center;
+    margin: 2em auto;
+    padding: .5em;
+    font-size: 1.25em;
+}
+.secao-inicio{
+    padding: 2em;
+}
+.secao-inicio h2 {
+        font-size: 3em;
+        text-shadow: 2px 2px #000;
+        text-transform: uppercase;
+        margin-bottom: .5em;
+}
+.trabalhos {
+    background-color: rgb(6, 61, 87);
+    border-top: .5em solid #000;
+    border-bottom: .5em solid #000;
+}
+.trabalhos h2 {
+    color: #FFF;
+}
+.trabalhos ul {
+    overflow: hidden;
+    border: .5em solid black;
+}
+.trabalhos li {
+    float: left;
+    width: 33.333%;
+}
+.trabalhos img {
+    width: 100%;
+    display: block;
+}
+footer {
+    background-color: #000;
+    color: #FFF;
+}
+footer h2{
+    font-size: 3em;
+}
+footer a {
+    color: rgb(49, 169, 238);
+}
+main {
+    width: 100%;
+    padding-bottom: 0;
+    float: none;
+}
+
+.palavra-home{
+    position: absolute;
+    font-family: "shadows into light", cursive;
+    color: rgb(134, 172, 221);
+    font-weight: bold;
+}
+.eficiencia{
+    top: 27%;
+    right:12%;
+}
+.boas-praticas{
+    top: 55%;
+    right:17%;
+}
+.codigo-limpo{
+    top: 10%;
+    right:27%;
+}
+.css3{
+    top: 43%;
+    right:33%;
+}
+.html5{
+    top: 68%;
+    right:27%;
+}
+.javascript{
+    top: 22%;
+    left:10%;
+}
+.acessibilidade{
+    top: 55%;
+    left:25%;
+}
+.responsivo{
+    top: 10%;
+    left:26%;
+}
+.otimizacoes{
+    top: 43%;
+    left:15%;
+}
+.agilidade{
+    top: 55%;
+    left:5%;
+}
+.design{
+    top: 33%;
+    left:29%;
+}
+header{
+    position: relative;
+}
